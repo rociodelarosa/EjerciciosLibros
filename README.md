@@ -1,2 +1,2 @@
 # EjerciciosLibros
-This is my learning path, I save exercises from books that I am or have studied. From Python, Apache Spark, Data Science, Machine Learning, SQL, Pandas, Data pipelines, Statistics or Deep Learning. I'm just starting. // Esta es mi ruta de aprendizaje, guardo ejercicios de libros que estoy o he estudiado. Desde Python, Apache Spark, Data Science, Machine Learning, SQL, Pandas, Data pipelines, Estadísticas o Deep Learning. Estoy recién iniciando.
+Development of exercises guided by the book Learn to Think Like a Programmer.
